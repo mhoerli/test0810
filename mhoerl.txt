@@ -1,3 +1,15 @@
-Mein Name ist Maxi.
-Ich lerne Git.
-Ich lerne auch, wie man Branches in Git verwendet.
+5. git checkout -b "feature/mhoerl"
+
+7. git checkout "main"
+
+8. git merge feature/mhoerl
+
+9. git Status
+
+10:
+
+*ESC* ":wq"
+
+Wenn gleichzeitig Änderungen an der Selben Stelle vorgenommen werden und diese sich wiedersprechen.
+
+Wenn mehrere Leute im selben Projekt arbeiten ohne sich abzusprechen oder zu commiten
